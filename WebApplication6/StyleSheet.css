@@ -1,0 +1,24 @@
+﻿div{
+    box-sizing:border-box;
+    width:100%;
+    text-align:center;border:#00ff00 1px solid;
+}
+#top{
+    width:100%;height:56px;
+    line-height:56px;font-family:黑体;font-size:xx-large;
+}
+#navigation{
+    width:100%;height:24px;line-height:24px;
+
+}
+#left{
+    width:10%;height:104px;line-height:104px;float:left;
+
+}#middle{
+     width:80%;height:104px;line-height:104px;float:left;
+
+ }#right{
+      width:10%;height:104px;line-height:104px;float:left;clear:right;
+  }#bottom{
+       width:100%;height:24px;line-height:24px;font-family:黑体;clear:both;
+   }
